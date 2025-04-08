@@ -20,8 +20,8 @@ A bioinformatics workflow for processing sequencing data from SRA accession to a
 ## Installation
 
 ```
-git clone https://github.com/yourusername/genome-assembly-pipeline.git
-cd genome-assembly-pipeline
+git clone https://github.com/BowerH/Nextflow_Genomic_Assembly_Pipeline.git
+cd Nextflow_Genomic_Assembly_Pipeline
 ```
 
 ## Usage
