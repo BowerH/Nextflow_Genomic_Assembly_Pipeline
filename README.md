@@ -2,6 +2,8 @@
 
 A bioinformatics workflow for processing sequencing data from SRA accession to assembly quality assessment.
 
+**Made for Workflow Exercise in BIOL7210**
+
 ## Overview
 **Workflow Steps**:
 1. Prefetch SRA data (`sra-tools`)
