@@ -29,7 +29,15 @@ cd genome-assembly-pipeline
 ```
 conda create -n nf -c bioconda nextflow -y
 conda actiavte nf
-nextflow run main.nf -profile conda
+nextflow run fullpipeline.nf -profile conda
+```
+
+Execution of mini dataset to ensure nextflow is working:
+
+```
+conda create -n nf -c bioconda nextflow -y
+conda actiavte nf
+nextflow run minipipeline.nf -profile conda
 ```
 
 ## Dependencies
